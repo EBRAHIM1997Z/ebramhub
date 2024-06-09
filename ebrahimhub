@@ -32,7 +32,7 @@ coverage
 bower_components 333
 
 # node-waf configuration 444
-.lock-wscript
+.lock-wscript 555
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
