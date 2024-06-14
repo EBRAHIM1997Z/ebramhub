@@ -39,7 +39,7 @@ build/Release 666
 
 # Dependency directories 777
 node_modules/888
-jspm_packages/
+jspm_packages/ 999
 
 # TypeScript v1 declaration files
 typings/
