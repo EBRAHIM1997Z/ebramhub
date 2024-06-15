@@ -41,7 +41,7 @@ build/Release 666
 node_modules/888
 jspm_packages/ 999
 
-# TypeScript v1 declaration files
+# TypeScript v1 declaration files 000
 typings/
 
 # TypeScript cache
