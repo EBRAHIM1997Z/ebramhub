@@ -54,7 +54,7 @@ typings/11 222
 .eslintcache 777
 888
 # Microbundle cache999
-.rpt2_cache/
+.rpt2_cache/ 000
 .rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd/
