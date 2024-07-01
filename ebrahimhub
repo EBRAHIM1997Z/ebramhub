@@ -56,7 +56,7 @@ typings/11 222
 # Microbundle cache999
 .rpt2_cache/ 000
 .rts2_cache_cjs/111
-.rts2_cache_es/
+.rts2_cache_es/222
 .rts2_cache_umd/
 
 # Optional REPL history
