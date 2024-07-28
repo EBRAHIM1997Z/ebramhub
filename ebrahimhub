@@ -79,7 +79,7 @@ typings/11 222
 .next111
 222
 # Nuxt.js build / generate output 333
-.nuxt
+.nuxt....
 dist
 
 # Gatsby files
