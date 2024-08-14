@@ -1,7 +1,7 @@
 # Logs 1111..!@
 logs 2222!@#
 *.log 3333@#$
-npm-debug.log* 444
+npm-debug.log* 444432
 yarn-debug.log* 55..
 yarn-error.log* 666123
 lerna-debug.log* 777...
